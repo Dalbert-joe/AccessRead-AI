@@ -32,3 +32,8 @@ outputs/
 .pytest_cache/
 .mypy_cache/
 test.pdf
+
+# Node / Next.js
+node_modules/
+.next/
+out/
